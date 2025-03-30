@@ -1,4 +1,4 @@
-# Dog vs. Cat Classification Using CNN with XML Annotations
+# Dog vs. Cat Classification Using CNN 
 
 This project demonstrates how to build a Convolutional Neural Network (CNN) for binary classification (dog vs. cat) using images and their corresponding XML annotations. The dataset is organized into two directories: one for images and one for annotations. The annotations (in XML format) are used to extract image filenames and their labels.
 
